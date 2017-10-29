@@ -12,7 +12,7 @@ import csv
 # In[4]:
 
 
-food = csv.reader('/Users/s.thilageswari/Documents/data_set_python/en.openfoodfacts.org.products.ts)
+food = csv.reader('/Users/user/Documents/datamining/en.openfoodfacts.org.products.ts)
 
 
 # In[5]:
