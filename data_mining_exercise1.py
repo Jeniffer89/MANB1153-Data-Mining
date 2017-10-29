@@ -24,13 +24,13 @@ food.head(5)
 # In[6]:
 
 
-food = csv.reader('/Users/s.thilageswari/Documents/data_set_python/en.openfoodfacts.org.products.tsv',sep='\t')
+food = csv.reader('/Users/user/Documents/datamining/en.openfoodfacts.org.products.tsv',sep='\t')
 
 
 # In[7]:
 
 
-food = pd.read_csv('/Users/s.thilageswari/Documents/data_set_python/en.openfoodfacts.org.products.tsv',sep='\t')
+food = pd.read_csv('/Users/user/Documents/datamining/en.openfoodfacts.org.products.tsv',sep='\t')
 
 
 # In[8]:
